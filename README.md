@@ -1,3 +1,8 @@
+
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv0t&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv0t" /> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&duration=3400&pause=800&color=350AA8&background=47FFB000&width=435&lines=Based+in+Dublin%2C+CA;Programmer+and+Developer;Coding+Experience+for+3%2B+years" alt="Typing SVG" /></a>
 
