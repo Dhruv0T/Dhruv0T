@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv0t&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv0t" /> </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=go+outside)](https://git.io/typing-svg) 
 
 - 👋 Hi, I’m @Dhruv0T
 - 🌱 I’m currently learning ReactNative and Tensorflow
