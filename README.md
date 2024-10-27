@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv0t&label=Profile%20views&color=0e75b6&style=flat" alt="pranshdalal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv0t&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv0t" /> </p>
 
 - 👋 Hi, I’m @Dhruv0T
 - 🌱 I’m currently learning ReactNative and Tensorflow
