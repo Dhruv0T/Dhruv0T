@@ -18,6 +18,7 @@
 
 
 - 🔭 I’m currently working AI stuff
+  
 - 🌱 I’m currently learning I’m currently learning ReactNative and Tensorflow
 
 
